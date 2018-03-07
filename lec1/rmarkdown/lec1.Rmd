@@ -1,0 +1,107 @@
+---
+title: "Spatial Data Science"
+author: "Mark Padgham"
+date: "`r Sys.Date()`"
+output:
+    revealjs::revealjs_presentation:
+        transition: fade
+        theme: sky
+        css: mystyle.css
+        center: true
+        pandoc_args: [ "--slide-level", "2" ]
+---
+
+# <s>Spatial</s> Data Science
+Mark Padgham
+
+## Data Science
+- [awesome list of awesomeness](https://github.com/emijrp/awesome-awesome)
+- [awesome data science](https://github.com/bulutyazilim/awesome-datascience)
+- [data science specialization](http://datasciencespecialization.github.io)
+- [data science resources](https://github.com/jonathan-bower/DataScienceResources)
+
+## Data Science and Coding
+- [R for data science](http://r4ds.had.co.nz)
+- [python data science handbook](https://github.com/jakevdp/PythonDataScienceHandboo)
+- [data science at the command line](https://www.datascienceatthecommandline.com)
+
+## Data for Data Science
+- [data retriever](http://www.data-retriever.org)
+- [R interface to data retriever](https://github.com/ropensci/rdataretrieve)
+- [ROpenSci](https://ropensci.or)
+
+## Data Science Courses
+- [data camp](https://datacamp.co)
+- [coursera](https://www.coursera.org/specializations/jhu-data-scienc)
+- [open source society university](https://github.com/ossu/data-scienc)
+
+## Data Science and R
+- [R data science](https://github.com/ujjwalkarn/DataScience)
+- [swirl](https://github.com/swirldev/swir)
+- [essential R](https://github.com/dirmeier/essential-)
+- [Geocomputation with R](https://github.com/Robinlovelace/geocompr)
+
+## Data Science Examples
+- [kaggle](https://kaggle.co)
+- [ai.google](https://ai.googl)
+- [Uber deck.gl](https://github.com/uber/deck.g)
+- [(Spatial) Machine Learning in R](http://r-spatial.org/r/2018/03/03/spatial-modeling-mlr.html)
+
+
+# A Brief History of <br>(Spatial) Data Science
+
+## A Brief History of <br>(Spatial) Data Science
+The [wikipedia on data science](https://en.wikipedia.org/wiki/Data_science) reveals
+that data science had its historical development in statistics but wikipedia has
+no article on "spatial data science"
+
+## {data-background="img/ddg-spatial-data-science.png" data-state=img-top50}
+
+## {data-background="img/coursera-spatial-data-sci.png" data-state=img-top90}
+
+# A Brief History of <br>Spatial Statistics
+
+## A Brief History of <br>Spatial Statistics
+
+- Nah, let's not bother.
+- But the history is very long and detailed.
+- <font color="green">So why did spatial statistics not transform into
+                                spatial data science the way that statistics
+                                transformed into data science?</font>
+
+## Why did spatial statistics not transform into spatial data science the way that statistics transformed into data science?
+
+- (There are no answers)
+- (But ...)
+
+## Data science software has become very dominantly<br>open source<br><br>Spatial data science software<br>is comparatively very<br>closed source
+
+
+# What is (Spatial) Data Science?<br>Why (Spatial) Data Science?
+
+## <s>What is (Spatial) Data Science?</s><br><s>Why (Spatial) Data Science?</s><br>How is (Spatial) Data Science Done?
+
+## <s>What is (Spatial) Data Science?</s><br><s>Why (Spatial) Data Science?</s><br>How is (Spatial) Data Science Done? <font color = "orange"><b>Openly</b></font>
+
+## Open (Spatial)<br>Data Science
+
+- open data
+- open software
+- open development & communication
+
+For all of those, there's [github](https://github.com)
+
+# Open Data Science and Licencing
+
+## Open Data Science and Licencing
+
+Open Source Code is ["Libre", not "Free"](https://en.wikipedia.org/wiki/Gratis_versus_libre)
+
+Free as in "free speech", not "free beer"
+
+## Open Data Science and Licencing
+
+- Do not <b>ever</b> just "take" code or data without checking the licence
+- Ensure the licence is compatible with your intended usage
+- <b>Always</b> acknowledge the source of any begged, borrowed, or stolen code
+  or data

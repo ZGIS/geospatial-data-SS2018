@@ -1,0 +1,8 @@
+html.img-top50 div.slide-background.present {
+        background-position: top;
+        background-size: 50%;
+    }
+html.img-top90 div.slide-background.present {
+        background-position: top;
+        background-size: 90%;
+    }
