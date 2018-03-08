@@ -46,6 +46,7 @@ Mark Padgham
 - [ai.google](https://ai.googl)
 - [Uber deck.gl](https://github.com/uber/deck.g)
 - [(Spatial) Machine Learning in R](http://r-spatial.org/r/2018/03/03/spatial-modeling-mlr.html)
+- [Spatio-temporal machine learning paper](https://www.sciencedirect.com/science/article/pii/S1364815217310976)
 
 
 # A Brief History of <br>(Spatial) Data Science
